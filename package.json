@@ -1,6 +1,6 @@
 {
-  "name": "saad-number-guessing-machine",
-  "version": "2.1.1",
+  "name": "muhammadsaadnumberguessing-game",
+  "version": "2.2.1",
   "type": "module",
   "description": "A number guessing machine using typescript,node.js and inquirer",
   "main": "index.js",
