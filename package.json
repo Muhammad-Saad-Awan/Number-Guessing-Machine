@@ -1,0 +1,20 @@
+{
+  "name": "muhammadsaadnumberguessing-game",
+  "version": "2.2.1",
+  "type": "module",
+  "description": "A number guessing machine using typescript,node.js and inquirer",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Saad",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "saad-number-guessing-machine": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
